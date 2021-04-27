@@ -1,13 +1,7 @@
 homepage: "https://goldlantern.io/"
 documentation: "https://github.com/InfiniteProfitSolutions/goldlantern-pixel-template/"
 versions:
-  # Latest version
-  - sha: 2a969ef55793be3f2399411be94f49c12b5d25a7
-    changeNotes: Account ID encoded as a URI.
+  - sha: 4387bb98e0ca03c437a0ff62dd7ec0682c908f3d
+    changeNotes: Initial upload.
 
-  # Older versions
-  - sha: d0a4a9dfcbb86f5cccfbfaafb1335a5bd7f802ae
-    changeNotes: Description updated.
   
-  - sha: fa270da3b133d0c57fe481401d76bba5ab370ccc
-    changeNotes: Initial release.
